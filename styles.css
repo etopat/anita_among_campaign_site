@@ -59,6 +59,7 @@ body {
 }
 
 main .container {
+  top: 8rem;
   border-radius: 10px;
   background-color: #f1ecec;
 }
@@ -66,7 +67,7 @@ main .container {
 /* HERO SECTION */
 .hero {
   background: #ffffcc;
-  padding: 60px 20px;
+  padding: 90px 20px;
   text-align: center;
   border-bottom: 4px solid #FFD700;
 }
@@ -103,7 +104,7 @@ form {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 
-form input, form textarea {
+form input, form textarea, form select {
   width: 100%;
   margin: 10px 0;
   padding: 12px;
