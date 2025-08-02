@@ -66,5 +66,4 @@ In your group of 10–15 students, collaboratively build a multi-page political 
 
 1. **Clone the Repository**
 
-   git clone https://github.com/etopat/aanita_among_campaign_site.git
-  
+   git clone https://github.com/etopat/anita_among_campaign_site.git
