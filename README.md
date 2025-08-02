@@ -4,7 +4,7 @@ This repository contains the official campaign website for **Hon. Anita Annet Am
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To design and deploy a modern, responsive, and visually appealing campaign website that highlights:
 
@@ -16,7 +16,7 @@ To design and deploy a modern, responsive, and visually appealing campaign websi
 
 ---
 
-## 🧾 Course Requirement / Question
+## Course Requirement / Question
 
 **Internet Technology and Web Design Coursework**
 In your group of 10–15 students, collaboratively build a multi-page political campaign website for a current Ugandan Member of Parliament. Ensure the website is professional, responsive, and easy to navigate. Your final project should include:
@@ -30,7 +30,7 @@ In your group of 10–15 students, collaboratively build a multi-page political 
 
 ---
 
-## 🎯 Site Features & Pages
+## Site Features & Pages
 
 | Page          | Description |
 |---------------|-------------|
@@ -43,7 +43,7 @@ In your group of 10–15 students, collaboratively build a multi-page political 
 
 ---
 
-## 👥 Team Roles & Responsibilities
+## Team Roles & Responsibilities
 
 | Name                 | Role                                  |
 |----------------------|----------------------------------------|
@@ -62,10 +62,9 @@ In your group of 10–15 students, collaboratively build a multi-page political 
 
 ---
 
-## 💻 How to Contribute
+## How to Contribute
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/your-org/anita-among-2026.git
-   cd anita-among-2026
+   git clone https://github.com/etopat/aanita_among_campaign_site.git
+  
