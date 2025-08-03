@@ -242,10 +242,10 @@ form button:hover {
     padding: 20px;
   }
 
-  .video-wrapper iframe {
+  .video-wrapper iframe, iframe {
     height: 250px;
   }
-  .profile-img, img, iframe {
+  .profile-img, img {
     width: 100%;
   }
 }
