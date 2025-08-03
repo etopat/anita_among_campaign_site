@@ -161,6 +161,11 @@ form button:hover {
   padding-bottom: 1rem;
 }
 
+.gallery-grid img {
+  width: 310px; 
+  height: 163px;
+}
+
 .gallery-item {
   background: #fff;
   border-radius: 8px;
