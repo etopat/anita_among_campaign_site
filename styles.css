@@ -83,6 +83,8 @@ img {
   border-radius: 8px;
 }
 
+
+
 .btn-primary {
   display: inline-block;
   padding: 10px 20px;
@@ -232,7 +234,7 @@ form button:hover {
   }
 
   .btn-primary {
-    width: 100%;
+    width: 80%;
     text-align: center;
   }
 
