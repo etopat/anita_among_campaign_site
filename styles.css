@@ -191,7 +191,7 @@ form button:hover {
   margin-top: 20px;
 }
 
-.video-wrapper iframe {
+.video-wrapper iframe, iframe {
   width: 100%;
   max-width: 720px;
   height: 400px;
