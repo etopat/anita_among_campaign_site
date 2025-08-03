@@ -245,4 +245,7 @@ form button:hover {
   .video-wrapper iframe {
     height: 250px;
   }
+  .profile-img {
+    width: 80%;
+  }
 }
