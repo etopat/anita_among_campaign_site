@@ -160,7 +160,12 @@ form button:hover {
   margin-top: 20px;
   padding-bottom: 1rem;
 }
-
+.image-grid {
+  display: flex;
+  justify-content: space-evenly;
+  
+  gap: 10px;
+}
 .gallery-grid img {
   width: 310px; 
   height: 163px;
@@ -174,7 +179,12 @@ form button:hover {
   transition: transform 0.3s;
 }
 
-.gallery-item:hover, .timeline-grid img:hover {
+.gallery-item:hover, 
+.timeline-grid img:hover, 
+.vision-section img:hover,
+.campaign-section img:hover,
+.contact-section img:hover,
+.image-grid img:hover {
   transform: scale(1.02);
 }
 
@@ -260,10 +270,15 @@ form button:hover {
   .content {
     padding: 0;
   }
-  .campaign-section h2 {
+  .campaign-section h2,
+  .contact-section h3 {
     justify-self: center;
+    font-size: 150%;
   }
   .media-section {
     margin-bottom: 10px;
+  }
+  .image-grid {
+    display: block;
   }
 }
