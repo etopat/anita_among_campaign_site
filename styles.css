@@ -281,4 +281,7 @@ form button:hover {
   .image-grid {
     display: block;
   }
+  .gallery-grid img {
+    height: auto;
+  }
 }
