@@ -58,7 +58,6 @@ In your group of 10–15 students, collaboratively build a multi-page political 
 | GitHub Manager       | Manage PRs, branches, README & versioning |
 | Deployment Manager   | Prepares files for hosting / publishing |
 
-*Note: Adjust names and roles to match your group.*
 
 ---
 
