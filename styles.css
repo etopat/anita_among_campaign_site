@@ -260,6 +260,7 @@ form button:hover {
   line-height: 48px;
   width: 48px;
   height: 48px;
+  border: #008000 1px dotted;
   border-radius: 50%;
   text-decoration: none;
   opacity: 70%;
