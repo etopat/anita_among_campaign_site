@@ -80,6 +80,7 @@ img {
   padding: 90px 20px;
   text-align: center;
   border-bottom: 10px solid #FFD700;
+  height: 71vh;
 }
 
 .hero-image {
@@ -335,5 +336,8 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+  .hero {
+    height: auto;
   }
 }
