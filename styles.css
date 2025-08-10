@@ -226,7 +226,7 @@ form button:hover {
   margin-top: 20px;
 }
 
-.video-wrapper iframe {
+.video-wrapper iframe, .media-grid iframe {
   width: 100%;
   max-width: 720px;
   height: 400px;
@@ -325,10 +325,6 @@ form button:hover {
 
   form {
     padding: 20px;
-  }
-
-  .video-wrapper iframe {
-    height: 250px;
   }
 
   .profile-img,
